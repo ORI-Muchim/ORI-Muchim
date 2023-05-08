@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ORI-Muchim&fontSize=90" />	
 </div>
 <div align=center>
-	<h3>나는 응애애요...</h3>
+	<h2>나는 응애애요...</h2>
 	<br>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>

@@ -4,7 +4,6 @@
 <div align=center>
 	<h3>나는 응애애요...</h3>
 	<br>
-	<br>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>

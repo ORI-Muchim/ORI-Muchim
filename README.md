@@ -45,7 +45,7 @@
 <div align="center">
   <p>
     <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>&nbsp;
-    <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-5A45FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGXSURBVHgBpZI9T8JQFIbf29uCBWrCYmIkLkwOTMbEH+DmyqgDi5MjP4GfQKcubC4uOjGZGJkZnRhZHRhIjCbGAC3QUu695TYBxASIb3Jyc3vv+z7n3FMiO0ZE7Xa7FIbh6Xw+P5nNZhXDMCaapnELbgxSZIbRaDRst9u3QRAQFxhXCZjgGPV63QsFiqLwfD43t7e35vf/rWkasdfr8XPsVJlMhncrlUrLvu+fEVmWpWD1IfACDxUKBQX7+L7vLgUSS4F6ve4sFosbz/OuwOkDvxcCTqGqqsI5106n03y9GCrZJL6GdDptFItF97OuRZvE9/hR1TSNe9iqGN8hHo33fx9jKohXly6Xy4/TzPO8F5wfVVV9GY/HE8zaQICUJOmAMdYajUa3kzn4SjgmrEayLAueOdwBJzxarVYgREgCB2SzWS1JURwViYBYwNM0TfoqgCJZcCJD4VECuq7f7yqAIruIiBU8JUCbOMLmCCgSP1au67ZEUTwUYqTUarUDIXAwHA4/4DlAjGSEoJr406LxBf8EMkzReCCsAAAAAElFTkSuQmCC"/></a>
+    <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-5A45FF?style=for-the-badge&logo=ollama&logoColor=white"/></a>
   </p>
 </div>
 </details>
@@ -55,8 +55,8 @@
 <br>
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   </p>
 </div>
 </details>

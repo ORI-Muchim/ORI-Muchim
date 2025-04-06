@@ -14,7 +14,7 @@
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 
 <details open>
-<summary><b>✨ Frontend ✨</b></summary>
+<summary align="center"><b>✨ Frontend ✨</b></summary>
 <br>
 <div align="center">
   <p>
@@ -28,7 +28,7 @@
 </details>
 
 <details open>
-<summary><b>⚡ Backend ⚡</b></summary>
+<summary align="center"><b>⚡ Backend ⚡</b></summary>
 <br>
 <div align="center">
   <p>
@@ -40,7 +40,7 @@
 </details>
 
 <details open>
-<summary><b>💾 Database & AI 💾</b></summary>
+<summary align="center"><b>💾 Database & AI 💾</b></summary>
 <br>
 <div align="center">
   <p>
@@ -51,7 +51,7 @@
 </details>
 
 <details open>
-<summary><b>💻 Programming Languages 💻</b></summary>
+<summary align="center"><b>💻 Programming Languages 💻</b></summary>
 <br>
 <div align="center">
   <p>
@@ -62,14 +62,14 @@
 </details>
 
 <details open>
-<summary><b>🛠 Development Tools & Environment 🛠</b></summary>
+<summary align="center"><b>🛠 Development Tools & Environment 🛠</b></summary>
 <br>
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   </p>
 </div>
 </details>

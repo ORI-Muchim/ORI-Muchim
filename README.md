@@ -80,13 +80,14 @@
 
 <div align="center">
   <br>
-  <a href="https://github.com/ORI-Muchim">
+  <div style="display: flex; justify-content: center;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ORI-Muchim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ORI-Muchim's GitHub Stats" />
-    <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ORI-Muchim&theme=tokyonight&hide_border=true" alt="ORI-Muchim's GitHub Streak" />
-</div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORI-Muchim&theme=tokyonight&hide_border=true" alt="ORI-Muchim's Top Languages" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORI-Muchim&layout=donut&theme=tokyonight&hide_border=true" alt="ORI-Muchim's Top Languages" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ORI-Muchim&theme=tokyonight&hide_border=true" alt="ORI-Muchim's GitHub Streak" />
+  </div>
 </div>
 
 ---

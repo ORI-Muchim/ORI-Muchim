@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>👋 Hello! I'm ORI-Muchim, a passionate developer 👋</h3>
+  <h3>👋 Hello! I'm <a href="https://ori-muchim.github.io/" target="_blank">ORI-Muchim</a>, a passionate developer! 👋</h3>
   <p>
     I love creating innovative solutions and learning new technologies! <br/>
   </p>

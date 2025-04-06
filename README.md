@@ -79,14 +79,13 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ORI-Muchim&theme=tokyonight&hide_border=true" alt="ORI-Muchim's GitHub Streak" />
-</div>
-
-<div align="center">
   <br>
   <a href="https://github.com/ORI-Muchim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ORI-Muchim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ORI-Muchim's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORI-Muchim&layout=compact&theme=tokyonight&hide_border=true" alt="ORI-Muchim's Top Languages" />
+    <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ORI-Muchim&theme=tokyonight&hide_border=true" alt="ORI-Muchim's GitHub Streak" />
+</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORI-Muchim&theme=tokyonight&hide_border=true" alt="ORI-Muchim's Top Languages" />
   </a>
 </div>
 
